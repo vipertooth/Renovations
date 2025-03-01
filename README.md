@@ -23,7 +23,7 @@ Tap Dial switches - how many, what color, locations
 Any smart plugs? - this could be used to heat the garage for example
 Motion Sensor - how many and locations
 
-
+possible custom security system - https://www.philips-hue.com/en-us/p/hue-secure-contact-sensor/046677580919#overview
 
 
 ### Outdoor Options
