@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "img",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
