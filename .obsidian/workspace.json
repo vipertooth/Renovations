@@ -25,12 +25,14 @@
             "id": "036a219d1ddfeb56",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Draw/Home.drawio.svg"
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Home.drawio.svg"
+              "title": "Plan"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draw/Home.drawio.svg",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home.drawio"
+              "title": "Backlinks for Plan"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draw/Home.drawio.svg",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home.drawio"
+              "title": "Outgoing links from Plan"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draw/Home.drawio.svg",
+                "file": "Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home.drawio"
+              "title": "Outline of Plan"
             }
           }
         ]
@@ -183,11 +185,12 @@
   },
   "active": "036a219d1ddfeb56",
   "lastOpenFiles": [
+    "img.md",
+    "Plan.md",
+    "Draw/Home.drawio.svg",
     "README.md",
     "Draw/home.drawio.html",
     "Draw/Unconfirmed 344397.crdownload",
-    "Plan.md",
-    "Draw/Home.drawio.svg",
     "Draw/Unconfirmed 701538.crdownload",
     "Welcome.md",
     "Draw",
